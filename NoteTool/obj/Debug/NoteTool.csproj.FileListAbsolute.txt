@@ -1,0 +1,15 @@
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\bin\Debug\NoteTool.exe.config
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\bin\Debug\NoteTool.exe
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\bin\Debug\NoteTool.pdb
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.csprojAssemblyReference.cache
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\MainWindow.g.cs
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\App.g.cs
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool_MarkupCompile.cache
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool_MarkupCompile.lref
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\MainWindow.baml
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.g.resources
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.Properties.Resources.resources
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.csproj.GenerateResource.cache
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.csproj.CoreCompileInputs.cache
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.exe
+G:\PROJECTS\NoteTool\NoteTool\NoteTool\obj\Debug\NoteTool.pdb
